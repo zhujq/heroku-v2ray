@@ -1,1 +1,1 @@
-web: ./v2ray -config ./server.json
+web: ./get_variable 
