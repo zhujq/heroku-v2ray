@@ -21,18 +21,8 @@
     }
   },
   "outbound": {
-    "protocol": "shadowsocks",
-    "settings": {
-        "servers": [
-            {
-                "port": 36795,
-                "address": "sg.wljs.pro",
-                "method": "aes-256-cfb",
-                "password": "7682240408",
-                "udp": false
-            }
-        ]
-    }
+    "protocol": "freedom",
+    "settings": {}
   },
   "outboundDetour": [
     {
