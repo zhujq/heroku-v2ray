@@ -1,0 +1,21 @@
+{
+  "name": "node-js-getting-started",
+  "version": "1.0.0",
+  "description": "A sample Node.js app using Express 4",
+  "main": "server.js",
+  "scripts": {
+    "start": "sh ./run.sh"
+  },
+  "keywords": [
+    "node",
+    "LeanCloud",
+    "LeanEngine",
+    "express"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": "4.x"
+  },
+  "dependencies": {
+  }
+}
