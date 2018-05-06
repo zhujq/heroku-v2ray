@@ -1,5 +1,5 @@
 ---
 applications:
-- name:    v2ray
+- name:    v2r200
   random-route: true
   memory:  128M
